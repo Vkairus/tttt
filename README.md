@@ -1,4 +1,4 @@
-# RPC [![GitHub forks](https://img.shields.io/github/forks/Vkairus/ttttf)](https://github.com/Vkairus/tttt/network)
+# RPC [![GitHub forks](https://img.shields.io/github/forks/Vkairus/tttt)](https://github.com/Vkairus/tttt/network)
 
 ## A simple html code that can create a website to provide your billing information
 
